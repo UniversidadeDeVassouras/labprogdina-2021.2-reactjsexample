@@ -1,0 +1,14 @@
+article {
+    display: grid;
+    grid-auto-flow: row;
+    grid-auto-rows: 1fr 1fr 1fr;
+}
+
+header {
+    background-color: chocolate;
+    color: white;
+}
+
+footer {
+    background-color: chocolate;
+}
